@@ -8,13 +8,13 @@ This script provides for command line input for date of run, minutes, miles, and
 `log -new`
 
 #### To display all log entries:
-`log -display'
+``log -display``
 
 #### To display help menu:
-`log -help'
+``log -help``
 
 #### To exit script:
-`log -exit'
+``log -exit``
 
 
 ## The Future
