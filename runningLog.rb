@@ -52,7 +52,7 @@ def welcome_screen
 	print "\e[H\e[2J"
 	puts "WelcomeLogItReallyFast v0.1"
 	puts "---------------------------"
-	puts "Type help to see usage instructions"
+	puts "Type log -help to see usage instructions"
 end
 
 def main_routine
