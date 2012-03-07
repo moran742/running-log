@@ -5,13 +5,19 @@
 This script provides for command line input for date of run, minutes, miles, and comments.  All data is intended to be stored in CSV fashion.  Script is pretty raw right now, but hope to refactor and refine for general usage and provide a Ruby Gem.
 
 #### To add a new log entry:
-`log -new`
+```ruby
+log -new
+```
 
 #### To display all log entries:
-``log -display``
+```ruby
+log -display
+```
 
 #### To display help menu:
-``log -help``
+```ruby
+log -help
+```
 
 #### To exit script:
 ```ruby
